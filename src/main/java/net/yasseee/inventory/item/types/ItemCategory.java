@@ -1,4 +1,4 @@
-package net.yasseee.inventory.item;
+package net.yasseee.inventory.item.types;
 
 public enum ItemCategory {
     WEAPON,

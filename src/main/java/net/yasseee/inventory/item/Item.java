@@ -1,5 +1,7 @@
 package net.yasseee.inventory.item;
 
+import net.yasseee.inventory.item.types.ItemCategory;
+
 public class Item {
 
     public final String id;

@@ -1,5 +1,7 @@
 package net.yasseee.inventory.item;
 
+import net.yasseee.inventory.item.types.ItemCategory;
+
 public class Potion extends Item {
 
     public final int power;
@@ -19,4 +21,5 @@ public class Potion extends Item {
                     " HP | Description: " + description;
         }
     }
+
 }
